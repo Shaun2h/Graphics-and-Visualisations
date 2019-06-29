@@ -1,0 +1,3 @@
+﻿  surf.cpp
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\1\Assignment1_setup\surf.cpp(50,22): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  one.vcxproj -> C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\1\Assignment1_setup\Debug\one.exe

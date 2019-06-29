@@ -1,0 +1,12 @@
+﻿  SkeletalModel.cpp
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(73,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(74,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(75,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(76,15): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(117,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(200,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(210,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(245,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(251,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\SkeletalModel.cpp(238,8): warning C4101:  'currentWeight': unreferenced local variable
+  a2.vcxproj -> C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\2\Assignment2_setup\Debug\a2.exe
