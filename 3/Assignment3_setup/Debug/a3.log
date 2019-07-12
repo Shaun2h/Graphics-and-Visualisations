@@ -1,0 +1,17 @@
+﻿  ClothSystem.cpp
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(24,59): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(69,70): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(75,41): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(262,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(266,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(268,25): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(271,32): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(276,19): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(284,39): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(291,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(310,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(320,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(362,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(367,33): warning C4244:  'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\ClothSystem.cpp(367,27): warning C4244:  'argument': conversion from 'float' to 'GLint', possible loss of data
+  a3.vcxproj -> C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\3\Assignment3_setup\Debug\a3.exe
