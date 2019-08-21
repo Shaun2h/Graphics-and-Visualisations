@@ -1,0 +1,92 @@
+
+PerspectiveCamera {
+    center 5 5 5
+    direction -1 -1 -1
+    up 0 4 0
+    angle 45
+}
+
+Lights {
+    numLights 1
+    DirectionalLight {
+        direction 0 0 -1
+        color 0.3 0.3 0.3
+    }
+}
+
+Background {
+    color 0 0 0 
+    ambientLight 1 1 1
+}
+
+Materials {
+    numMaterials 4
+    Material { diffuseColor 1 0 0 }
+    Material { diffuseColor 0 1 0 }
+    Material { diffuseColor 0 0 1 }
+    Material { diffuseColor 1 1 1 }
+}
+
+Group {
+    numObjects 1
+    Group {
+        numObjects 7
+        MaterialIndex 0
+	Transform {
+	    Translate  0 0 0 
+	    Scale  5 0.2 0.2 
+	    TriangleMesh {
+                obj_file cube.obj
+            }
+        }
+        MaterialIndex 0
+	Transform {
+	    Translate  0 1 0 
+	    Scale  5 0.2 0.2
+	    TriangleMesh {
+                obj_file cube.obj
+            }
+        }
+        MaterialIndex 0
+	Transform {
+	    Translate  0 -1 0 
+	    Scale  5 0.2 0.2
+	    TriangleMesh {
+                obj_file cube.obj
+            }
+        }
+        
+        MaterialIndex 1
+	Transform {
+	    Translate  0 0 0 
+	    Scale  0.2 5 0.2 
+	    TriangleMesh {
+                obj_file cube.obj
+            }
+        }
+        
+        MaterialIndex 2
+	Transform {
+	    Translate  -1 0 0 
+	    Scale  0.2 5 0.2 
+	    TriangleMesh {
+                obj_file cube.obj
+            }
+        }
+        MaterialIndex 2
+	Transform {
+	    Translate  1 0 0 
+	    Scale  0.2 5 0.2 
+	    TriangleMesh {
+                obj_file cube.obj
+            }
+        }
+        
+        MaterialIndex 3
+            Sphere {
+            center 0 0 -3
+                radius 2
+            }        
+    }
+    
+}

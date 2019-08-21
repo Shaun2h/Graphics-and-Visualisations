@@ -1,0 +1,12 @@
+﻿  RayTracer.cpp
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\Group.h(34,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(60,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(76,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(117,34): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(118,34): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(119,34): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(123,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(140,16): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(168,68): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\RayTracer.cpp(200,161): warning C4305:  'argument': truncation from 'double' to 'float'
+  a4.vcxproj -> C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\5\Assignment5\Debug\a4.exe

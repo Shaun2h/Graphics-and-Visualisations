@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\4\Assignment4_setup\Group.h(34,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\4\Assignment4_setup\main.cpp(69,22): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\4\Assignment4_setup\main.cpp(73,23): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\4\Assignment4_setup\main.cpp(30,9): warning C4101:  'max_bounces': unreferenced local variable
+  a4.vcxproj -> C:\Users\User\Desktop\Season 7\Graphics and Visualisations\Assignments\4\Assignment4_setup\Debug\a4.exe

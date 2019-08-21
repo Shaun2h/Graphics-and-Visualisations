@@ -1,0 +1,71 @@
+
+PerspectiveCamera {
+    center 0 0 10
+    direction 0 0 -1
+    up 0 4 0
+    angle 45
+}
+
+Lights {
+    numLights 1
+    PointLight {
+        position 2 5 4
+        color 1 1 1
+    }
+}
+
+Background {
+    color 0 0 0 
+    ambientLight 0.2 0.2 0.2 
+}
+
+Materials {
+    numMaterials 2
+    Material { diffuseColor 0.9 0.4 0.2
+      specularColor 0 0 0
+      shininess 0
+    }
+    Material { diffuseColor 0.2 0.8 0.9
+	specularColor 0 0 0
+	shininess 0
+    }
+}
+
+Group {
+    numObjects 4
+    MaterialIndex 0
+    Sphere {
+	center 1 -1 0
+        radius 1
+    }
+
+    MaterialIndex 1
+    Plane {
+	normal 0 1 0
+        offset -1 
+    }
+    
+    MaterialIndex 0
+    Transform {
+        Translate  1 0.4 0.6 
+        XRotate  30 
+	YRotate  30 
+        ZRotate  45
+        Scale  0.2 1 0.75
+        TriangleMesh {
+             obj_file cube.obj
+        }
+    }
+    MaterialIndex 0
+    Transform {
+        Translate  -0.3 -0.5 -0.6 
+        XRotate  -30 
+	YRotate  -60 
+        ZRotate  -40 
+        Scale  0.2 3 1
+        TriangleMesh {
+             obj_file cube.obj
+        }
+    }
+}
+
